@@ -10,6 +10,7 @@ git config --global commit.gpgsign true
 ```bash
 git config user.signingKey <keyID>
 ```
+Показать в git log подписи коммитов
 ```bash
 git log --show-signature
 ```
